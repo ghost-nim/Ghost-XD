@@ -1,6 +1,5 @@
 /*
-DONT REMOVE OWNER BY PAHASARA TECH 
-QUEEN NELUMI MD BAEE LEACK
+DONT REMOVE OWNER BY GHOST QUEEN GHOST XD BAEE LEACK
 */
 
 
@@ -28,7 +27,7 @@ cmd({
         const runtimeHours = Math.floor(runtimeMilliseconds / (1000 * 60 * 60));
 
         const formattedInfo = `
-✨ *QUEEN-NELUMI-MD V1 STATUS* ✨
+✨ *QUEEN-NELUMI-XD V1 STATUS* ✨
 Hi 🫵🏽 ${pushname}
 🕒 *Time*: ${currentTime}
 📅 *Date*: ${currentDate}
@@ -54,7 +53,7 @@ Have a Nice Day..💫
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363421132465520@newsletter',
-                    newsletterName: '𝐐𝐔𝐄𝐄𝐍 𝐍𝐄𝐋𝐔𝐌𝐈 𝐌𝐃 💗',
+                    newsletterName: 'GHOST XD 💀',
                     serverMessageId: 143
                 }
             }
@@ -71,7 +70,7 @@ Have a Nice Day..💫
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363421132465520@newsletter',
-                    newsletterName: '𝐐𝐔𝐄𝐄𝐍 𝐍𝐄𝐋𝐔𝐌𝐈 𝐌𝐃💛',
+                    newsletterName: 'GHOST XD 💀',
                     serverMessageId: 143
                 }
             }
