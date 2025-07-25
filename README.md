@@ -1,0 +1,2 @@
+# Ghost-XD
+New bot 
