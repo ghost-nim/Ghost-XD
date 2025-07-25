@@ -34,11 +34,14 @@ console.log(chalk.red('Password salah! Sistem akan dimatikan'));
             process.exit(); // Matikan konsol
         }
 console.log(chalk.cyan("-[ 🔗 Time To Pairing! ]"));
-const phoneNumber = await question(chalk.green("-📞 Enter Your Number Phone::\n"));
+const phoneNumber = await question(chalk.green("-📞+94759076492:\n"));
 const code = await rikz.requestPairingCode(phoneNumber.trim(), "12345678");
 console.log(chalk.blue(`-✅ Pairing Code: `) + chalk.magenta.bold(code));
 }
 rikz.public = global.publik
+
+            
+            
 //======================
 rikz.ev.on("connection.update", async (update) => {
 const { connection, lastDisconnect } = update;
